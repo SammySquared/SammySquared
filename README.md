@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SammySquared
-- 👀 I’m interested in iOS App Development 
-- 🌱 I’m currently learning Swift Programming
-- 💞️ I’m looking to collaborate on iOS & Swift - The Complete iOS App Development
+- 👀 I’m interested in iOS App Development and web Development
+- 🌱 I’m currently learning Web developing
+- 💞️ I’m looking to collaborate on HTML, CSS, JAVA - The Complete Web Development
 - 📫 How to reach me sammysquared@mail.com
 
 <!---
